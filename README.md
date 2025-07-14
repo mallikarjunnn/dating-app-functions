@@ -14,5 +14,20 @@ This repository provides core feature implementations for a command-line based d
 Use GCC or any standard C compiler:
 
 ```bash
-gcc filename.c -o output_name
-./output_name
+
+# Compile and run sending_virtual_gifts
+gcc sending_virtual_gifts.c -o gifts
+./gifts
+
+# Compile and run SOS_calling_or_messaging
+gcc SOS_calling_or_messaging.c -o sos
+./sos
+
+# Compile and run user_feedback
+gcc user_feedback.c -o feedback
+./feedback
+
+# Compile and run user_rating
+gcc user_rating.c -o rating
+./rating
+
