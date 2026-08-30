@@ -1,6 +1,6 @@
 # Dating App - Core Functionalities (in C)
 
-This repository provides core feature implementations for a command-line based dating application using the C programming language. Each module demonstrates a specific app functionality in a modular and educational wayy.
+This repository provides core feature implementations for a command-line based dating application using the C programming language. Each module demonstrates a specific app functionality in a modular and educational way.
 
 ## Files and Features
 
